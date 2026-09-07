@@ -1,0 +1,50 @@
+凤凰中文	PRIMARY	http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文	REJECTED	http://zmgd.zyrnet.com:8888/hls/110/index.m3u8	duplicate source, not selected (times out)
+凤凰资讯	PRIMARY	http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯	REJECTED	http://zmgd.zyrnet.com:8888/hls/109/index.m3u8	duplicate source, not selected (times out)
+凤凰香港	PRIMARY	https://cdn.qd.je/163189/fhhk
+凤凰香港	BACKUP	http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+无线新闻台	PRIMARY	http://r.jdshipin.com/CkuBd
+无线新闻台	BACKUP	https://cdn6.cc.cd/163189/wxxw
+无线新闻台	BACKUP	https://cdn6.cc.cd/163189/wxxwt
+无线新闻台	REJECTED	http://php.jdshipin.com:8880/smt.php?id=inews_twn	duplicate source, not selected (times out)
+翡翠台	PRIMARY	http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台	BACKUP	http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台	BACKUP	https://cdn3.indevs.in/stream/tvb/fct/
+翡翠台	BACKUP	http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台	REJECTED	http://php.jdshipin.com:8880/smt.php?id=jade_twn	duplicate source, not selected (times out)
+明珠台	PRIMARY	https://cdn.qd.je/163189/mzt
+明珠台	BACKUP	http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+娱乐新闻台	PRIMARY	https://cdn6.cc.cd/163189/ylxw
+娱乐新闻台	REJECTED	http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv	duplicate source, not selected (403 Forbidden)
+TVB_Plus	PRIMARY	http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+TVB_Plus	BACKUP	https://cdn3.indevs.in/stream/tvb/tvbp/
+TVB_Plus	REJECTED	https://stream1.freetv.fun/tvb-j2-2.ctv	duplicate source, not selected (times out)
+TVB星河	PRIMARY	https://cdn6.cc.cd/163189/tvbxh
+TVB星河	BACKUP	http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+TVB星河	REJECTED	http://php.jdshipin.com:8880/smt.php?id=Xinhe	duplicate source, not selected (times out)
+千禧經典台	PRIMARY	http://php.jdshipin.com/TVOD/iptv.php?id=tvbc	MANUAL_OK
+华丽翡翠台	PRIMARY	http://r.jdshipin.com/thuYX
+TVB1	PRIMARY	https://cdn6.cc.cd/163189/tvb1
+翡翠台北美版	PRIMARY	https://cdn6.cc.cd/163189/j1
+翡翠台北美版	BACKUP	http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
+翡翠台北美版	REJECTED	https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv	duplicate source, not selected (times out)
+HOY国际财经台	PRIMARY	https://cdn.qd.je/163189/hoy76	MANUAL_OK
+HOY_TV	PRIMARY	http://r.jdshipin.com/sFw4S
+HOY_TV	BACKUP	https://cdn.qd.je/163189/hoy
+HOY资讯台	PRIMARY	https://cdn.qd.je/163189/hoy78
+ViuTV	PRIMARY	https://cdn.qd.je/163189/viu	MANUAL_OK
+ViuTVsix	PRIMARY	https://cdn.qd.je/163189/viu6	MANUAL_OK
+NOW新闻台	PRIMARY	https://cdn.qd.je/163189/now
+澳视澳门	REJECTED	https://cdn.qd.je/163189/asam	loops (confirmed manually, ~2min repeat)
+澳视澳门	REJECTED	https://stream1.freetv.fun/ao-shi-ao-men-4.m3u8	loops (confirmed manually, ~2min repeat)
+澳视卫星	REJECTED	https://cdn.qd.je/163189/as	loops (confirmed manually, ~2min repeat)
+CCTV1_央视综合	PRIMARY	http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV4_国际新聞	PRIMARY	http://69.30.245.50/live/cctv4.m3u8
+CCTV13_央视新聞	PRIMARY	http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
+Sky_News	PRIMARY	https://xemzi.short.gy/1000018
+Sky_News	REJECTED	https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8	wrong-channel-not-UK-SkyNews
+CNN_US	PRIMARY	https://jmp2.uk/stvp-ATBD800001VA
+CNBC	PRIMARY	https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+BBC_News_GB	PRIMARY	https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+BBC_Earth	PRIMARY	https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
